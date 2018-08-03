@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Matthew Forum)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Editing code to create a movie search engine using API.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://matthewforum.github.io/lesson8_ajax/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to use API to acess a database.)
+2. (How to add information categories into a search engine.)
+3. (How to link those categories to a database so that they show up on the search engine.)
